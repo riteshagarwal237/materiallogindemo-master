@@ -99,5 +99,3 @@ public class HomeDrawerActivity extends AppCompatActivity
         return true;
     }
 }
-
-//first edit in homedrawer
